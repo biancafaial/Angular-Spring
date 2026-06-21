@@ -1,0 +1,9 @@
+
+.mat-toolbar{
+  background-color: var(--mat-sys-primary);
+}
+
+mat-toolbar {
+
+  color: var(--mat-sys-on-primary); /* Garante que o texto fique legível sobre a cor primária */
+}
